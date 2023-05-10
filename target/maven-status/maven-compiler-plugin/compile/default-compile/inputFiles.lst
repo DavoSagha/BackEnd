@@ -3,6 +3,7 @@ C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Security\Service\R
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Repository\IPersonaRepository.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Repository\RExperiencia.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Security\Jwt\JwtTokenFilter.java
+C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Repository\RProyecto.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Security\Jwt\JwtEntryPoint.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Service\SEducacion.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Service\Shys.java
@@ -10,7 +11,9 @@ C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Controller\CExperi
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Dto\dtoHys.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Dto\dtoPersona.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Service\ImpPersonaService.java
+C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Dto\dtoProyecto.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Security\Entity\UsuarioPrincipal.java
+C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Service\SProyecto.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Security\Dto\LoginUsuario.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Security\Controller\AuthController.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Repository\Rhys.java
@@ -18,9 +21,11 @@ C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Security\MainSecur
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Dto\dtoExperiencia.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Security\Enums\RolNombre.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Repository\REducacion.java
+C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Entity\Proyecto.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Security\Dto\JwtDto.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Service\SExperiencia.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Controller\CHys.java
+C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Controller\CProyecto.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Controller\PersonaController.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Security\Service\UsuarioService.java
 C:\Argentina Programa\BackEnd\src\main\java\com\portfolio\dsm\Controller\CEducacion.java
