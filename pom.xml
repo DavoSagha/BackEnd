@@ -75,12 +75,7 @@
             <artifactId>spring-security-core</artifactId>
             <type>jar</type>
         </dependency>
-        <dependency>
-            <groupId>com.saghatelyan-portfolio</groupId>
-            <artifactId>dsm</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-            <type>jar</type>
-        </dependency>
+
     </dependencies>
 
     <build>
